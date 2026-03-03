@@ -1,0 +1,11 @@
+{
+  "name": "cicd_testes_integracao_02-03-2026",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "poku": "^3.0.2"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
